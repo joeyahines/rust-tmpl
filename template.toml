@@ -5,4 +5,5 @@ project_name = "project"
 version = "0.1.0"
 author = "Joey Hines"
 author_email = "joey@ahines.net"
+runner = "gdb-multiarch -q -x openocd.gdb"
 
