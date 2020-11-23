@@ -1,0 +1,8 @@
+# template.toml
+# Write any template args here to prompt the user for, giving any defaults/options as applicable
+
+project_name = "project"
+version = "0.1.0"
+author = "Joey Hines"
+author_email = "joey@ahines.net"
+
